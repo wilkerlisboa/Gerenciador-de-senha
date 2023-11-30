@@ -27,3 +27,9 @@ Após a compilação, execute o sistema de gerenciamento de senhas usando:
 <h3>Uso</h3>
 <li>Execute o programa e siga as instruções no menu para adicionar senhas ou visualizar senhas armazenadas.</li>
 <li>As senhas adicionadas são exibidas com informações sobre o serviço, o nome de usuário e a senha.</li>
+
+<h3>Autores:</h3>
+<a>WILKER LISBOA SOARES DA SILVA</a>
+
+<h3>Contribuição</h3>
+Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para contribuir. Basta abrir uma issue ou enviar um pull request.
