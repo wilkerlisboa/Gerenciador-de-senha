@@ -19,3 +19,8 @@ Certifique-se de ter um compilador C++ (como o g++) instalado em seu sistema.
 Abra o Prompt de Comando e navegue até o diretório onde o arquivo "password_manager.cpp" está localizado. Em seguida, execute o seguinte comando para compilar o código:
 
         $ g++ -o password_manager password_manager.cpp
+
+<li><strong>Execuçãoo</strong></li>
+Após a compilação, execute o sistema de gerenciamento de senhas usando:
+
+        $ password_manager.exe
