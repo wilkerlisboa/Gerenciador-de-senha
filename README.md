@@ -1,3 +1,4 @@
+<img src="https://github.com/wilkerlisboa/Gerenciador-de-senha/assets/73085812/583b53c0-5879-42e9-92f2-65ce87d01167">
 <h1 align="center"> Gerenciador de senha</h1>
 Este é um simples sistema de gerenciamento de senhas implementado em C++.
 
