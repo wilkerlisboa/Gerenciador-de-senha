@@ -1,4 +1,4 @@
-<h1 align="center"> Gerenciador-de-senha</h1>
+<h1 align="center"> Gerenciador de senha</h1>
 Este é um simples sistema de gerenciamento de senhas implementado em C++.
 
 <h2>funcionalidades</h2
